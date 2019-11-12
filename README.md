@@ -1,1 +1,3 @@
-# 551_Neural_Network_Proj
+# 434 Final Proj
+
+Mario project using TIVA C Launch Pad. 
